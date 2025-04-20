@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+httpx
+click
+python-dotenv
+git+https://github.com/google/adk-python.git
