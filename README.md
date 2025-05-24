@@ -1,7 +1,9 @@
-# 🧠 MCP Flow - Chat Workflow Engine with ADK Integration
+# MCP Flow - Chat Workflow Engine with ADK Integration
 
-這是一個簡潔可擴充的 Chat Workflow Engine，使用 Python + FastAPI + CLI + Google [Agent Development Kit (adk-python)](https://github.com/google/adk-python) 建構，適合用於統一 AI 問答流程，整合不同 AI agent、格式化工具與外部 API。
-
+Chat Workflow Engine，
+使用 Python + FastAPI + CLI + Google 
+[Agent Development Kit (adk-python)](https://github.com/google/adk-python) 
+統一 AI 問答流程
 ---
 
 ## 🚀 Features
